@@ -7,7 +7,7 @@ node_modules/
 .env.development
 .env.production
 
-# Build outputs
+# Build output
 dist/
 build/
 
